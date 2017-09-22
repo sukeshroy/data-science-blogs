@@ -70,6 +70,7 @@ A curated list of data science blogs
 * Datanice https://datanice.wordpress.com/ [(RSS)](https://datanice.wordpress.com/feed/)
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)](https://www.dataquest.io/blog/atom.xml)
 * DataRobot http://www.datarobot.com/blog/ [(RSS)](http://www.datarobot.com/feed/)
+* Data Science Learner https://www.datasciencelearner.com/ [(RSS)]https://www.datasciencelearner.com/feed/)
 * Datascope http://datascopeanalytics.com/blog [(RSS)](http://datascopeanalytics.com/rss)
 * DatasFrame http://tomaugspurger.github.io/ [(RSS)](http://tomaugspurger.github.io/feeds/all.rss.xml)
 * David Mimno http://www.mimno.org/ [(RSS)](http://mimno.infosci.cornell.edu/b/feed.xml)
